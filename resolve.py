@@ -1,7 +1,7 @@
 """Attempts to resolve domains from file"""
 import socket
 
-data = open("domains.txt", "r") 
+data = open("domains.txt", "r", encoding='utf8') 
 
 dns = data.read().splitlines()
 print('For domain list: ')
