@@ -1,0 +1,17 @@
+capiqcorp.com
+capiqinc.com
+ciqdev.com
+ciqhyd.com
+ciqindia.com
+clarifi.local
+dnslb-c1.mhf.mhc
+edmz.mcgraw-hill.com
+ext.mhc
+ISC.insurancescorecard.com
+mhf.mhc
+MHF1.mhf.mhc
+prod.mktint.global
+snl.int
+snlnet.int
+spglobal.com
+stage.mktint.global
